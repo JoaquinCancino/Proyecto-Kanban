@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "459175381020",
+    "firebase_url": "https://kp-express-default-rtdb.firebaseio.com",
+    "project_id": "kp-express",
+    "storage_bucket": "kp-express.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459175381020:android:655f8198c2410527d937d9",
+        "android_client_info": {
+          "package_name": "com.example.kp_express_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEPcmJO7LmxhXBqHNU7cK3HcgWCqQEnQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
